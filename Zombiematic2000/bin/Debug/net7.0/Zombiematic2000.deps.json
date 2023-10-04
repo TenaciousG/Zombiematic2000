@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Zombiematic2000/1.0.0": {
+        "runtime": {
+          "Zombiematic2000.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zombiematic2000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

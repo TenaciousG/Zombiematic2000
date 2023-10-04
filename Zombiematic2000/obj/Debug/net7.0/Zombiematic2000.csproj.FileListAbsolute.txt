@@ -1,0 +1,14 @@
+C:\Users\GlenOlsen\source\repos\Zombiematic2000\Zombiematic2000\bin\Debug\net7.0\Zombiematic2000.exe
+C:\Users\GlenOlsen\source\repos\Zombiematic2000\Zombiematic2000\bin\Debug\net7.0\Zombiematic2000.deps.json
+C:\Users\GlenOlsen\source\repos\Zombiematic2000\Zombiematic2000\bin\Debug\net7.0\Zombiematic2000.runtimeconfig.json
+C:\Users\GlenOlsen\source\repos\Zombiematic2000\Zombiematic2000\bin\Debug\net7.0\Zombiematic2000.dll
+C:\Users\GlenOlsen\source\repos\Zombiematic2000\Zombiematic2000\bin\Debug\net7.0\Zombiematic2000.pdb
+C:\Users\GlenOlsen\source\repos\Zombiematic2000\Zombiematic2000\obj\Debug\net7.0\Zombiematic2000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GlenOlsen\source\repos\Zombiematic2000\Zombiematic2000\obj\Debug\net7.0\Zombiematic2000.AssemblyInfoInputs.cache
+C:\Users\GlenOlsen\source\repos\Zombiematic2000\Zombiematic2000\obj\Debug\net7.0\Zombiematic2000.AssemblyInfo.cs
+C:\Users\GlenOlsen\source\repos\Zombiematic2000\Zombiematic2000\obj\Debug\net7.0\Zombiematic2000.csproj.CoreCompileInputs.cache
+C:\Users\GlenOlsen\source\repos\Zombiematic2000\Zombiematic2000\obj\Debug\net7.0\Zombiematic2000.dll
+C:\Users\GlenOlsen\source\repos\Zombiematic2000\Zombiematic2000\obj\Debug\net7.0\refint\Zombiematic2000.dll
+C:\Users\GlenOlsen\source\repos\Zombiematic2000\Zombiematic2000\obj\Debug\net7.0\Zombiematic2000.pdb
+C:\Users\GlenOlsen\source\repos\Zombiematic2000\Zombiematic2000\obj\Debug\net7.0\Zombiematic2000.genruntimeconfig.cache
+C:\Users\GlenOlsen\source\repos\Zombiematic2000\Zombiematic2000\obj\Debug\net7.0\ref\Zombiematic2000.dll
