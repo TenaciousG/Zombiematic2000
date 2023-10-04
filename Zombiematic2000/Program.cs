@@ -32,21 +32,21 @@ while (fin == false)
     }
     else if (question.Contains("how"))
     {
-        Console.ForegroundColor = ConsoleColor.DarkYellow;
+        Console.ForegroundColor = ConsoleColor.Red;
 
         Console.WriteLine("i dont think your ready to know little human");
     }
-    else if (question.Contains("xxx"))
+    else if (question.StartsWith("can"))
     {
         Console.ForegroundColor = ConsoleColor.DarkYellow;
 
-        Console.WriteLine("the master of the universe (:");
+        Console.WriteLine("yes of course");
     }
-    else if (question.Contains("xxxx"))
+    else if (question.Contains(" i "))
     {
         Console.ForegroundColor = ConsoleColor.DarkYellow;
 
-        Console.WriteLine("the master of the universe (:");
+        Console.WriteLine("a silly little human");
     }
     else if (question.Contains("name"))
     {
@@ -73,6 +73,41 @@ while (fin == false)
         Console.WriteLine("to morrow at 00:00 (:");
     }
 
+//are you
+//am i
+//will
+//should
+//now
+    else if (question.Contains("now"))
+    {
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
+
+        Console.WriteLine("ok (:");
+    }
+    else if (question.Contains("should"))
+    {
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
+
+        Console.WriteLine("or maybe a toilet seat");
+    }
+    else if (question.StartsWith("will"))
+    {
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
+
+        Console.WriteLine("i dont know but maybe it is saussages with mayo");
+    }
+    else if (question.StartsWith("am i"))
+    {
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
+
+        Console.WriteLine("yes or maybe not (:");
+    }
+    else if (question.StartsWith("are you"))
+    {
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
+
+        Console.WriteLine("maybe");
+    }
 
 
 
@@ -93,7 +128,7 @@ while (fin == false)
     {
         Console.ForegroundColor = ConsoleColor.DarkRed;
 
-        Console.WriteLine("i am soory i dont know ):");
+        Console.WriteLine("i am sorry i dont know ):");
 
     }
 }
